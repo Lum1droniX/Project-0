@@ -21,7 +21,7 @@ else:
 
 Result = input("What operation would you like to perform? (Add, Subtract, Multiply, Divide, Exponent, Root): ").upper()   # This line determinines what operation to perform.
 
-if Result == "EXPONENT":            # This block finds the second value and determines the proper verbage, followed by an interger conversion.
+if Result == "EXPONENT":            # This block finds the second value and determines the proper verbage, followed by an float conversion.
     Value2 = input("To what power? ")
 elif Result == "ROOT":
     Value2 = input("What root will you take? ")
