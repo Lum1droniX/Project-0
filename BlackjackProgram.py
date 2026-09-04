@@ -1,6 +1,6 @@
 # Hayden Fillmore
 
-    # This program aims to faithfully recreate the famous card game Blackjack (minus the betting of of course).
+    # This program aims to faithfully recreate the famous card game Blackjack (minus the betting of course).
     # It contains all face cards and non face cards, converting them to their respective worths in-game.
     # Along with the cards, I've done my best to recreate the ruleset and gameplay based mostly off what I learned in lecture.
     # After some personal research though, I found that using 'while True:' was crucial for the turn cycle.
